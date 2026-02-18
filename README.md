@@ -18,3 +18,5 @@ For Basic DSA Modules:
 9. Graph
 
 For Advanced DSA Modules: 
+
+1. Dynamic Programming
