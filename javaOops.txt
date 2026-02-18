@@ -1,0 +1,7 @@
+The core OOPs concepts: 
+1. Object 
+2. Class 
+3. Abstraction 
+4. Encapsulation 
+5. Inheritance 
+6. Polymorphism
