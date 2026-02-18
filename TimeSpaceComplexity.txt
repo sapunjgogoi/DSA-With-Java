@@ -1,0 +1,19 @@
+# [Time complexity]
+Time complexity quantifies the number of operations an algorithm performs as a function of the input size, typically expressed using Big O notation.
+It does not measure the actual execution time in seconds, which can vary between machines, but rather the rate of growth of operations. 
+
+Common time complexities include:
+1. O(1) (Constant Time): The time taken is constant, regardless of the input size (e.g., accessing an array element).
+2. O(log n) (Logarithmic Time): The time grows slowly as the input size increases (e.g., binary search).
+3. O(n) (Linear Time): The time grows linearly with the input size (e.g., traversing an array).
+4. O(n log n) (Linearithmic Time): The time grows proportionally to n times the logarithm of n (e.g., merge sort, quick sort average case).
+5. O(n²) (Quadratic Time): The time grows proportionally to the square of the input size (e.g., bubble sort, nested loops).
+6. O(2ⁿ) (Exponential Time): The time doubles with each additional input element (e.g., recursive Fibonacci without memoization). 
+
+# [Space Complexity]
+Space complexity measures the total memory an algorithm requires relative to input size, encompassing both input and auxiliary (temporary) space.
+
+Key complexities include: 
+1. O(1) (Constant Space): Fixed memory usage, like in simple iterative algorithms.
+2. O(n) (Linear Space): Memory grows proportionally with input size, such as storing input in a new data structure.
+3. O(n²) (Quadratic Space): Memory usage grows with the square of the input size.
