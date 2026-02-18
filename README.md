@@ -6,7 +6,7 @@ Author: Sapun Jyoti Gogoi
 
 For Basic DSA Modules: 
 
-[Zero: Basic Java Knowledge]
+[Zero: Basic Java OOPS Knowledge]
 1. Time & Space Complexity
 2. Arrays
 3. Strings
