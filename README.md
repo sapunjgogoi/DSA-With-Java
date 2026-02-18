@@ -7,6 +7,12 @@ Author: Sapun Jyoti Gogoi
 For Basic DSA Modules: 
 
 [Zero: Basic Java OOPS Knowledge]
+- class & object
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+
 1. Time & Space Complexity
 2. Arrays
 3. Strings
