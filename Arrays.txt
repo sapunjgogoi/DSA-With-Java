@@ -1,0 +1,107 @@
+# 📦 Arrays – Quick Revision Notes
+
+## 🔹 Definition
+
+* Collection of **same data type elements**
+* Stored in **contiguous memory**
+* Accessed using **index (0-based)**
+
+---
+
+## 🔹 Declaration (Java)
+
+```java
+int[] arr = new int[n];
+int[] arr = {1, 2, 3, 4};
+```
+
+---
+
+## 🔹 Key Properties
+
+* Fixed size
+* Index-based access
+* Homogeneous data
+* Stored in continuous memory
+
+---
+
+## 🔹 Time Complexity
+
+* Access → `O(1)`
+* Traversal → `O(n)`
+* Insertion → `O(n)`
+* Deletion → `O(n)`
+* Search → `O(n)` (Linear), `O(log n)` (Binary - sorted)
+
+---
+
+## 🔹 Basic Operations
+
+* Traversal → visit all elements
+* Insertion → shift elements if needed
+* Deletion → shift elements
+* Searching → find element
+
+---
+
+## 🔹 Types of Arrays
+
+* 1D Array → `int[] arr`
+* 2D Array → `int[][] matrix`
+* Multidimensional Array
+
+---
+
+## 🔹 Advantages
+
+* Fast access (`O(1)`)
+* Easy to use
+* Memory efficient
+
+---
+
+## 🔹 Disadvantages
+
+* Fixed size
+* Costly insertion/deletion
+* Wastes memory if unused space
+
+---
+
+## 🔹 Arrays vs Dynamic Arrays
+
+* Array → fixed size
+* Dynamic Array (e.g., **ArrayList**) → resizable
+
+---
+
+## 🔹 Important Points (Interview)
+
+* Index starts from **0**
+* Stored in **contiguous memory**
+* Size cannot be changed after creation
+* Best for **read-heavy operations**
+
+---
+
+## 🔹 Common Mistakes
+
+* Index out of bounds
+* Forgetting array size
+* Not handling empty array
+
+---
+
+## 🔹 Example
+
+```java
+int[] arr = {10, 20, 30};
+System.out.println(arr[1]); // 20
+```
+
+---
+
+## 🧠 One-Line Summary
+
+👉 *Arrays = fixed-size, fast-access data structure*
